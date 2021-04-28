@@ -6,10 +6,8 @@ image:  '/images/artista-emergente/duvan-estrada.webp'
 tags:   [Reseña, Artistas]
 author: Fundación Ipakú
 ---
-**Duvan Estrada**, quien en el mundo artístico se hace llamar **Estraditado**, es un hijo de San Agustín quien posee un gran talento y que recientemente es titulado **maestro de artes**.
-
-Un joven inquieto, con una inclinación hacia las causas sociales, y que a partir de su obra refleja esa identidad y hace honor a los territorios y su riqueza humana, ambiental y cultural. Les presentamos parte de las obras de este personaje que va a dar mucho de qué hablar en la escena del arte en representación del sur del huila.
+Duvan Estrada, recientemente titulado Maestro en Artes, es quien nos relata parte de su obra, “**RETRATO DE UN ARTISTA EMERGENTE**”. Un joven inquieto, con una inclinación hacia las causas sociales y que parte de su obra refleja la identidad, la riqueza humana, ambiental y cultural con la que cuenta el territorio.
 
 ## Retrato de un artista emergente: Duván Estrada
 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/8N5HJa_zaBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1b6B1ffVYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
