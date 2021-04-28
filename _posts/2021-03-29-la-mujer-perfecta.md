@@ -10,30 +10,30 @@ Este hermoso poema repasa el sueño de un hombre con una mujer extraordinaria, l
 
 ## LA MUJER PERFECTA
 
->En una primavera de mi mente  
-Observando un paisaje imaginario  
-Parado al borde de un hermoso sueño;  
-Divise una mujer esplendorosa  
-una mujer extraordinaria.
+>En una primavera de mi mente 
+Observando un paisaje imaginario 
+Parado al borde de un hermoso sueño; 
+Divise una mujer esplendorosa 
+Kuna mujer extraordinaria.
 
->Sin tener ojos me miraba con deseo  
-Sin tener olfato disfrutaba con el aroma de mi cuerpo  
-Sin boca me hablaba dulcemente  
+>Sin tener ojos me miraba con deseo 
+Sin tener olfato disfrutaba con el aroma de mi cuerpo 
+Sin boca me hablaba dulcemente 
 Sin oídos me escuchaba muy atenta
 
->Y no teniendo brazos me abrazaba fuertemente  
-No teniendo senos los sentía contra mi pecho  
+>Y no teniendo brazos me abrazaba fuertemente 
+No teniendo senos los sentía contra mi pecho 
 Sin tener sexo disfrutaba de mi sexo
 
->Con nuestras piernas entrelazadas entre sus no piernas  
-Disfrutamos observando todo el tiempo el universo  
+>Con nuestras piernas entrelazadas entre sus no piernas 
+Disfrutamos observando todo el tiempo el universo 
 Es la mujer perfecta
 
->La diosa tierra  
-Ella es la mujer que siempre veo  
-Ella es la mujer con la que vivo  
-Ella es la mujer de la cual yo me alimento  
-La que me quita la sed dándome de sus aguas  
+>La diosa tierra 
+Ella es la mujer que siempre veo 
+Ella es la mujer con la que vivo 
+Ella es la mujer de la cual yo me alimento 
+La que me quita la sed dándome de sus aguas 
 Ella es la mujer, por favor no la matemos
 
 <cite>Por: Agustin Andaquí</cite>
