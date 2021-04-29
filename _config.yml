@@ -77,8 +77,9 @@ include:
   - _pages
 
 # Tags
-tag_page_dir:         categoria
-tag_page_layout:      categoria
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
 
 sass:
   sass_dir: _sass
