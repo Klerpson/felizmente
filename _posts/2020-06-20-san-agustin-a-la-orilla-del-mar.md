@@ -3,7 +3,7 @@ layout: post
 title:  San Agustín a la orilla del mar
 date:   2020-06-20 15:01:35 +0300
 image:  '/images/martha-gil/san-agustin-orilla-del-mar.webp'
-tags:   [Literatura, Martha Gil]
+tags:   [Literatura]
 author: Martha Gil
 featured: true
 ---
