@@ -1,9 +1,11 @@
 /* Hero */
 .hero {
   margin-bottom: 50px;
+
   .row {
     align-items: center;
   }
+
   @media only screen and (max-width: $tablet) {
     margin-bottom: 20px;
   }
@@ -26,7 +28,7 @@
     line-height: 1;
     font-weight: 800;
   }
-  
+
   .author__job {
     font-size: 63px;
     line-height: 58px;
@@ -37,12 +39,14 @@
     .author__name {
       font-size: 24px;
     }
+
     .author__job {
       margin-bottom: 20px;
       font-size: 38px;
       line-height: 33px;
     }
   }
+
   @media only screen and (max-width: $tablet) {
     margin: 20px 0;
   }
@@ -54,9 +58,11 @@
     max-width: 500px;
     margin: 0 auto;
     text-align: center;
+
     .author__avatar {
       margin: 0 auto 10px;
     }
+
     .social__list {
       justify-content: center;
     }
