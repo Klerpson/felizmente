@@ -37,15 +37,6 @@
     } ,
   
     {
-      "title"    : "Serie Radial Chimimanta. &quot;El libro digital de San Agustín&quot;",
-      "category" : "",
-      "tags"     : "Radio and Chimimanta",
-      "url"      : "/felizmente/programa-radial-chimimanta",
-      "date"     : "Apr 5, 2021",
-      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
-    } ,
-  
-    {
       "title"    : "La Primera Muerte de Don Eliecer",
       "category" : "",
       "tags"     : "Literatura, Cuento, and David Dellenback",
@@ -55,12 +46,30 @@
     } ,
   
     {
+      "title"    : "Serie Radial Chimimanta. Programa 003",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/felizmente/chimimanta-programa-03",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+    } ,
+  
+    {
+      "title"    : "Serie Radial Chimimanta. Programa 002",
+      "category" : "",
+      "tags"     : "Radio and Chimimanta",
+      "url"      : "/felizmente/chimimanta-programa-02",
+      "date"     : "Apr 5, 2021",
+      "image": "/images/serie-radial-chimimanta/huellas-en-el-barro.webp"
+    } ,
+  
+    {
       "title"    : "Serie Radial Chimimanta. Programa 001",
       "category" : "",
       "tags"     : "Radio and Chimimanta",
-      "url"      : "/felizmente/chimimanta-programa-1",
+      "url"      : "/felizmente/chimimanta-programa-01",
       "date"     : "Apr 5, 2021",
-      "image": "/images/serie-radial-chimimanta/una-sociedad-nueva.webp"
+      "image": "/images/serie-radial-chimimanta/un-valle-donde-nace-vida.webp"
     } ,
   
     {
