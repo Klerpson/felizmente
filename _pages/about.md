@@ -30,4 +30,6 @@ www.sanagustiniando.co será un portal digital donde se visibiliza, transforma y
 
 Somos el primer medio virtual enfocado en la apropiación de la cultura, por eso para Sanagustiniando su aporte es fundamental. Gracias a su apoyo podremos mantener y crear contenidos relevantes con carácter idóneo y profesional. Usted también puede apoyar a Sanagustiniando por compartir sus saberes, obras, talentos o contenidos en los que se destaque la diversidad de la cultura en nuestro territorio. ¡Apoya esta ventana a la cultura!
 
+<a href="https://paypal.me/sanagustiniando?locale.x=es_XC" class="subscribe-button button button--primary">Contribuir al proyecto</a>
+
 * *Diseño de portada por [Manuela Yaya](https://www.facebook.com/manuela.yaya )*
