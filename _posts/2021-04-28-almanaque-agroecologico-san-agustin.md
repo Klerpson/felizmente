@@ -10,8 +10,6 @@ Este Almanaque Agroecológico es una de las piezas literarias más importantes  
 
 ## Almanaque Agroecológico de San Agustín
 
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/portada-almanaque.webp)
-
 A Luis Salamanca
 
 Existe un espacio en la memoria, donde día a día se alojan los relatos  
@@ -40,6 +38,8 @@ diferencia de otras narrativas, ya que no repetimos la historia
 hegemónica de una cultura agustiniana y megalítica, aislada de su  
 gente.
 
+![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/almanaque1.webp)
+
 En estas hojas de otros días, encontraran el calendario cívico de San  
 Agustín con sus fechas más representativas, los lunes de mercado, la  
 historia de mamá Transito, la gran matrona liberal, reconocida por  
@@ -66,11 +66,11 @@ Finalmente, un inventario de museos comunitarios y privados, conforman
 la identidad local, ya que a través de sus objetos, se pone en dialogo  
 el pasado más allá de lo arqueológico con su realidad y su presente.
 
+![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/almanaque2.webp)
+
 Bienvenidos a reconocer el paisaje y la memoria del macizo colombiano  
 a través de este Almanaque de San Agustín.
 
 <cite>Por Lyna Bristol</cite>
 
 Puedes descargar aquí el [Almanaque Agroecológico de San Agustín](https://drive.google.com/file/d/1rOgM9DG6VxyKVAvtDB7awB3Rjz2aS-iB/view?ts=6085d827)
-
-![Portada del Almanaque Agroecológico de San Agustín]({{site.baseurl}}/images/almanaque/paginas-almanaque.webp)
