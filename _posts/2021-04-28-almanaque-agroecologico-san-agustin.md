@@ -5,6 +5,7 @@ date:   2021-04-28
 image:  '/images/almanaque/almanaque.webp'
 tags:   [Ecología, Biología, Personajes, Almanaque]
 author: Lyna Bristol
+published: false
 ---
 Este Almanaque Agroecológico es una de las piezas literarias más importantes  de San Agustín que se han elaborado en los últimos años. Esta obra refleja la realidad agrícola, ecológica y antropológica de nuestro municipio. La autora en un gesto de generosidad y desprendimiento ha donado a Sanagustiniando este valioso contenido. Enseguida Lyna Bristol, la autora del almanaque nos presenta una reflexión sobre su obra:
 
